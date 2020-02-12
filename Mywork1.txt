@@ -1,0 +1,11 @@
+My associte id:
+844569
+other team members:
+844599,844604,844602,844562
+Team Lead:
+844569
+My Role In team:
+1. To develop Appoinmnet page and and adding validations for Appoinment page and contacUs page
+My development Files:
+1. myproject
+2.contactUs(validations)
